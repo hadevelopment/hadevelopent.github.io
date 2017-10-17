@@ -1,0 +1,32 @@
+{
+  "name": "CSS-Mint",
+  "version": "1.4.6",
+  "homepage": "https://github.com/ArunMichaelDsouza/CSS-Mint",
+  "authors": [
+    "Arun Michael Dsouza <amdsouza92@gmail.com>"
+  ],
+  "description": "Simple to use UI Kit",
+  "main": "build/css-mint.min.css",
+  "keywords": [
+    "CSS",
+    "UI"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "_release": "1.4.6",
+  "_resolution": {
+    "type": "version",
+    "tag": "v1.4.6",
+    "commit": "81d2746104ccf808eca22c3f1a5959a806699ea7"
+  },
+  "_source": "https://github.com/ArunMichaelDsouza/CSS-Mint.git",
+  "_target": "^1.4.6",
+  "_originalSource": "CSS-Mint",
+  "_direct": true
+}
